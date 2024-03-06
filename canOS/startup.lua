@@ -1,1 +1,1 @@
-shell.run("/canOS/canOS.lua")
+shell.run("/canOS/canOS")
