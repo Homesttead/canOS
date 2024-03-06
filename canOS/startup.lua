@@ -1,2 +1,2 @@
 shell.run("/canOS/canOS")
-shell.run("/canOS/speaker/start.dfpwm")
+shell.run("speaker play /canOS/speaker/start.dfpwm")
